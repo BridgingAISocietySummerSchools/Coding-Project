@@ -1,6 +1,6 @@
 # AI and Society Summer School Coding Challenges
 
-This repository contains three coding challenges designed for the "Bridging AI and Society" summer school program. Each challenge focuses on a different aspect of AI's societal impact and is designed to be completed within approximately three hours. The challenges include educational notebooks to guide students, complete solution notebooks, and **real-world datasets** for authentic learning experiences.
+This repository contains three coding challenges designed for the "Bridging AI and Society" summer school program. Each challenge focuses on a different aspect of AI's societal impact and is designed to be completed within approximately three hours. The challenges include educational notebooks to guide students and **real-world datasets** for authentic learning experiences.
 
 ## Challenges
 
@@ -91,19 +91,6 @@ Each challenge now uses **authentic real-world datasets** for meaningful learnin
 - **⚖️ Ethical Awareness**: Understand real-world bias and fairness issues
 - **📊 Larger Scale**: More data for robust model training and evaluation
 
-## Dataset Setup Guide
-
-### Quick Start ✅ **All Challenges Ready!**
-**All challenges are now ready to go!** The wine quality, fake news, and YouTube spam datasets are all pre-installed. Just run the notebooks and start learning with real data!
-
-### For Reference: Challenge 2 Setup (Already Completed) ✅
-
-The fake news dataset has been successfully set up with the following structure:
-- **Files**: `Fake.csv` and `True.csv` from Kaggle
-- **Combined Dataset**: Automatically processed in the notebook
-- **Size**: 2,000 articles (1,000 fake + 1,000 real) for educational purposes
-- **Features**: title, text, subject, date, label
-
 ## Getting Started
 
 ### Prerequisites
@@ -139,21 +126,6 @@ The fake news dataset has been successfully set up with the following structure:
 
 Follow the instructions within the educational notebook to complete the challenge. The solution notebook provides a complete implementation for reference.
 
-## Key Features
-
-### Educational Structure
-- **Task-based Learning**: Each challenge broken into clear, manageable tasks
-- **Progressive Difficulty**: Start with data exploration, build to advanced ML
-- **Real-world Context**: Understand AI's societal implications
-- **Hands-on Practice**: Learn by doing with authentic datasets
-
-### Technical Learning Outcomes
-- **Data Science Workflow**: End-to-end project experience
-- **Machine Learning**: Classification, regression, feature engineering
-- **Natural Language Processing**: Text analysis and classification
-- **Model Evaluation**: Performance metrics and interpretation
-- **Ethical AI**: Bias detection and fairness considerations
-
 ### Updated Requirements
 
 Core dependencies across all challenges:
@@ -173,12 +145,6 @@ kaggle>=1.5.16  # Optional, for Challenge 2 API download
 
 ### Common Issues
 
-**Kaggle API Setup (Challenge 2):**
-- Create account at [kaggle.com](https://kaggle.com)
-- Go to Account settings → API → Create New API Token
-- Place `kaggle.json` in `~/.kaggle/` directory
-- Set permissions: `chmod 600 ~/.kaggle/kaggle.json`
-
 **Missing Dependencies:**
 ```bash
 # Update pip and install requirements
@@ -191,28 +157,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-**Dataset Issues:**
-- **Challenge 1**: Wine data should be in `challenge_1/data/WineQT.csv`
-- **Challenge 2**: Fake news data needs manual download from Kaggle
-- **Challenge 3**: YouTube spam data should be in `challenge_3/data/spam_detection_dataset.csv`
-
-### Getting Help
-- Check individual challenge README files for specific instructions
-- Review notebook markdown cells for detailed explanations
-- Consult solution notebooks if you get stuck
-- Kaggle documentation: [github.com/Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api)
-
-## Contributing
-
-We welcome contributions to improve these educational challenges:
-
-- **Bug Reports**: Found an issue? Please report it!
-- **Dataset Suggestions**: Know of better real-world datasets?
-- **Educational Improvements**: Ideas for better learning experiences?
-- **New Challenges**: Want to add more AI & Society topics?
-
-Please feel free to open issues or submit pull requests.
-
 ## License & Attribution
 
 - **Educational Use**: These materials are designed for educational purposes
@@ -221,14 +165,6 @@ Please feel free to open issues or submit pull requests.
   - Fake News: Kaggle community dataset
   - YouTube Spam: UCI ML Repository
 - **Open Source**: Code and notebooks available for educational use
-
-## Acknowledgments
-
-Created for the "Bridging AI and Society" summer school program. Special thanks to:
-- UCI ML Repository for providing accessible datasets
-- Kaggle community for maintaining quality datasets
-- Open source Python ecosystem (pandas, scikit-learn, matplotlib, etc.)
-- Students and educators who help improve these materials
 
 ---
 
