@@ -158,7 +158,6 @@ seaborn>=0.11.0
 jupyter>=1.0.0
 nltk>=3.7
 ucimlrepo>=0.0.7
-kaggle>=1.5.16  # Optional, for Challenge 2 API download
 ```
 
 ## Troubleshooting & Support
