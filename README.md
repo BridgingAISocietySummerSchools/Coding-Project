@@ -66,7 +66,6 @@ Each challenge now uses **authentic real-world datasets** for meaningful learnin
 - **Target**: Quality scores (3-8) from professional wine tasters
 - **Key Learning**: Feature engineering, regression vs classification, model interpretation
 - **Societal Impact**: Understanding AI's role in augmenting human expertise in specialized domains
-- **Status**: **Pre-installed and ready to use!**
 
 ### Challenge 2: Real Fake News Detection Dataset ✅ **Ready to Use**
 - **Source**: [Kaggle Fake News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
@@ -75,7 +74,6 @@ Each challenge now uses **authentic real-world datasets** for meaningful learnin
 - **Target**: Binary classification (Real vs Fake)
 - **Key Learning**: Binary text classification with real misinformation patterns
 - **Societal Impact**: Building tools for media literacy and information integrity
-- **Status**: **Pre-installed and ready to use!**
 
 ### Challenge 3: Real YouTube Spam Detection Dataset ✅ **Ready to Use**
 - **Source**: [UCI ML Repository YouTube Spam Collection](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection)
@@ -84,14 +82,6 @@ Each challenge now uses **authentic real-world datasets** for meaningful learnin
 - **Target**: Binary classification (Ham vs Spam)
 - **Key Learning**: Short-text classification with real social media language
 - **Societal Impact**: Protecting digital well-being and reducing online harassment
-- **Status**: **Pre-installed and ready to use!**
-
-## Benefits of Real Datasets:
-- **🌍 Authentic Challenges**: Work with genuine data complexity and noise
-- **📈 Industry Relevance**: Experience what data scientists actually encounter
-- **🔍 Realistic Patterns**: Learn from actual human language and behavior
-- **⚖️ Ethical Awareness**: Understand real-world bias and fairness issues
-- **📊 Larger Scale**: More data for robust model training and evaluation
 
 ## Getting Started
 
