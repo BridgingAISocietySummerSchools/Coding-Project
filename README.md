@@ -10,7 +10,7 @@ This repository contains three coding challenges designed for the "Bridging AI a
     -   **Dataset:** Real wine quality data from Kaggle (1,143 authentic wine samples) ✅ **Ready to use!**
     -   **Files:** `challenge_1/`
     -   **🚀 Run in Google Colab:**
-        - [![Open Educational Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/summer-school-challenges/blob/main/challenge_1/notebooks/educational_notebook_1.ipynb)
+        - [![Open Educational Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Coding-Project/blob/main/challenge_1/notebooks/educational_notebook_1.ipynb)
 
 2.  **Challenge 2: Fake News Detector Project in AI**
     -   **Theme:** AI for combating misinformation and promoting media literacy.
@@ -18,7 +18,7 @@ This repository contains three coding challenges designed for the "Bridging AI a
     -   **Dataset:** Real fake news data from Kaggle (40,000+ news articles) ✅ **Ready to use!**
     -   **Files:** `challenge_2/`
     -   **🚀 Run in Google Colab:**
-        - [![Open Educational Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/summer-school-challenges/blob/main/challenge_2/notebooks/educational_notebook_2.ipynb)
+        - [![Open Educational Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Coding-Project/blob/main/challenge_2/notebooks/educational_notebook_2.ipynb)
 
 3.  **Challenge 3: Social Media Spam Detection**
     -   **Theme:** AI for digital well-being and combating online harassment.
@@ -26,7 +26,7 @@ This repository contains three coding challenges designed for the "Bridging AI a
     -   **Dataset:** Real YouTube spam data from UCI ML Repository (1,956 comments) ✅ **Ready to use!**
     -   **Files:** `challenge_3/`
     -   **🚀 Run in Google Colab:**
-        - [![Open Educational Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/summer-school-challenges/blob/main/challenge_3/notebooks/educational_notebook_3.ipynb)
+        - [![Open Educational Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Coding-Project/blob/main/challenge_3/notebooks/educational_notebook_3.ipynb)
 
 ## Repository Structure
 
